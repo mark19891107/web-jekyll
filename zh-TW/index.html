@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+
+    <title></title>
+    <meta name="description" content="" />
+
+    <meta property="og:title" content="" >
+    <meta property="og:url" content="/">
+    <meta property="og:image" content="/images/pdis-team.jpg">
+    <meta property="og:type" content="article">
+    <meta property="og:description" content="">
+
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.3/css/swiper.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen,projection" href="/assets/materialize.css" />
+    <link rel="stylesheet" type="text/css" media="screen,projection" href="/assets/main.css">
+    <link rel="canonical" href="/zh-TW/" />
+    <link type="application/atom+xml" rel="alternate" href="/zh-TW/feed.xml" />
+    <!-- webfonts -->
+    <link href="https://use.fontawesome.com/e7b4292f28.css" media="all" rel="stylesheet">
+    <script src="https://use.fontawesome.com/e7b4292f28.js"></script>
+    <script src="https://use.typekit.net/zhj8nwm.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+    
+
+</head>
+
+
+  <body class="brown lighten-5">
+
+    
+
+<nav class="transparent z-depth-0" role="navigation">
+    <div class="nav-wrapper container">
+
+      <!-- Logo -->
+      <a id="logo-container" class="right brand-logo hoverable" style='line-height:0' href="/zh-TW/">
+        <img src="/images/pdis-logo-final-inverse.png" alt="logo" style="height: 64px;">
+      </a>
+      <!--  -->
+
+      <!-- Menu nav -->
+      <ul class="hide-on-med-and-down">
+        <li>
+  <a href="/" class="grey-text text-darken-3">
+    <i class="material-icons notranslate">home</i>
+  </a>
+</li>
+<li>
+  <a href="/zh-TW/contact" class="grey-text text-darken-3">
+    聯絡我們
+  </a>
+</li>
+
+<li class='drop'>
+  <a class='grey-text text-darken-3'>我們怎麼做
+    <span class="material-icons notranslate" style="vertical-align:middle">expand_more</span>
+  </a>
+  <ul>
+
+    <li>
+      <a href="/zh-TW/tools" class='grey-text text-darken-3'>工具</a>
+    </li>
+
+  </ul>
+</li>
+
+
+
+<!-- nested -->
+<li class='drop'>
+  <a class='grey-text text-darken-3'>我們做了什麼
+    <span class="material-icons notranslate" style="vertical-align:middle">expand_more</span>
+  </a>
+  <ul>
+
+    <li>
+      <a href="/zh-TW/project" class='grey-text text-darken-3'>專案</a>
+    </li>
+
+    <li>
+      <a href="/zh-TW/blog" class='grey-text text-darken-3'>部落格</a>
+    </li>
+
+    <li>
+      <a href="/zh-TW/track" class='grey-text text-darken-3'>工作記錄</a>
+    </li>
+
+  </ul>
+</li>
+
+<li>
+  <div class="search-wrapper">
+    <input id="search" class="search-box" placeholder="Search" value="">
+    <i class="material-icons search-button notranslate" onclick="search(this)">search</i>
+    <div class="search-results"></div>
+  </div>
+</li>
+
+<script>
+  function search(clicked) {
+    q = $(clicked).siblings('.search-box')[0].value;
+    window.location.href = "/zh-TW/search/?q=" + q;
+  }
+</script>
+      </ul>
+      <!--  -->
+
+      
+      
+
+      <!-- Side nav and Hamburger menu -->
+      <ul id="nav-mobile" class="side-nav">
+        <li>
+  <a href="/" class="grey-text text-darken-3">
+    <i class="material-icons notranslate">home</i>
+  </a>
+</li>
+<li>
+  <a href="/zh-TW/contact" class="grey-text text-darken-3">
+    聯絡我們
+  </a>
+</li>
+
+<li class='drop'>
+  <a class='grey-text text-darken-3'>我們怎麼做
+    <span class="material-icons notranslate" style="vertical-align:middle">expand_more</span>
+  </a>
+  <ul>
+
+    <li>
+      <a href="/zh-TW/tools" class='grey-text text-darken-3'>工具</a>
+    </li>
+
+  </ul>
+</li>
+
+
+
+<!-- nested -->
+<li class='drop'>
+  <a class='grey-text text-darken-3'>我們做了什麼
+    <span class="material-icons notranslate" style="vertical-align:middle">expand_more</span>
+  </a>
+  <ul>
+
+    <li>
+      <a href="/zh-TW/project" class='grey-text text-darken-3'>專案</a>
+    </li>
+
+    <li>
+      <a href="/zh-TW/blog" class='grey-text text-darken-3'>部落格</a>
+    </li>
+
+    <li>
+      <a href="/zh-TW/track" class='grey-text text-darken-3'>工作記錄</a>
+    </li>
+
+  </ul>
+</li>
+
+<li>
+  <div class="search-wrapper">
+    <input id="search" class="search-box" placeholder="Search" value="">
+    <i class="material-icons search-button notranslate" onclick="search(this)">search</i>
+    <div class="search-results"></div>
+  </div>
+</li>
+
+<script>
+  function search(clicked) {
+    q = $(clicked).siblings('.search-box')[0].value;
+    window.location.href = "/zh-TW/search/?q=" + q;
+  }
+</script>
+      </ul>
+      <a href="#" data-activates="nav-mobile" class="button-collapse grey-text text-darken-3"><i class="material-icons">menu</i></a>
+      <!--  -->
+
+    </div>
+</nav>
+
+
+        <div class="container">
+    <div class="section no-pad-bot" id="index-banner" >
+        <div class="swiper-container" style="width:100%">
+
+          <div class="swiper-wrapper">
+            <!-- should read slides from data -->
+            <div class="swiper-slide">
+              <div class="contain" style="overflow: hidden;line-height: 0;">
+              <img src="/images/pdis-team.jpg" alt="" srcset="" class="team-img">
+              <div class="cta-block">
+                  <h1 class="header white-text notranslate">
+                    行⁠政⁠院公⁠共⁠數⁠位創⁠新⁠空⁠間
+                  </h1>
+                  <p class="light white-text" style="font-size: 1.3vw;">
+                    我們協助政府部會提升數位服務品質，以創新方式改善和增進公務體系的工作流程、方針規則及使用工具。
+                  </p>
+                  <div>
+                    <a href="/contact" id="download-button" class="btn-large waves-effect waves-light cyan">
+                      聯絡我們
+                      <i class="material-icons right notranslate">send</i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+            <div class="swiper-slide">
+              <div class="iframeWrapper">
+                <iframe allowtransparency="true" scrolling="no" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fshu.w.zhengwei%2Fvideos%2F225723507918927%2F%3Fl%3D598307961771178061&amp;show_text=false&amp;show_captions=true&amp;appId" frameborder="0"></iframe>
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="iframeWrapper">
+                <iframe allowtransparency="true" scrolling="no" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fshu.w.zhengwei%2Fvideos%2F161981934293085%2F%3Fl%3D598307961771178061&amp;show_text=false&amp;show_captions=true&amp;appId" frameborder="0"></iframe>
+              </div>
+            </div>
+
+          </div>
+          <div class="swiper-pagination"></div>
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>
+        </div>
+
+      </div>
+
+  <div class="section">
+    <h3 class="center">
+      我們能幫你做什麼？
+    </h3>
+    <!--   Icon Section   -->
+    <div class="row">
+      
+      
+      
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center cyan-text"><i class="material-icons notranslate">flash_on</i></h2>
+            <h5 class="center">數位政委督導業務</h5>
+            <p class="light">協辦開放政府、社會企業、青年事務。</p>
+          </div>
+        </div>
+      
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center cyan-text"><i class="material-icons notranslate">group</i></h2>
+            <h5 class="center">促進行政數位化</h5>
+            <p class="light">協助各部會單位收集民眾意見後規劃設計，改善軟體、平台、系統和網站，達成「自動化」、「結構化」、「視覺化」的目標。</p>
+          </div>
+        </div>
+      
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center cyan-text"><i class="material-icons notranslate">settings</i></h2>
+            <h5 class="center">參與式治理</h5>
+            <p class="light">導引民間專業進入公部門，建立原有社群與政府的對話溝通管道，促成連結在地、台灣和世界的網絡。</p>
+          </div>
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+<div class="blue-grey lighten-5">
+  <div class="container">
+    <h3 class="center">專案</h3>
+    
+
+<div class='projects section'>
+  <section>
+
+    
+
+    <div class="row">
+      
+
+        <div class="col s12 m4">
+          <a href='/zh-TW/project/emic/' class="card grey-text text-darken-4 hoverable" style='display:block'>
+            <div class="card-image dim" style='background:url("https://images.unsplash.com/photo-1454789476662-53eb23ba5907?w=3389") center / cover no-repeat'>
+              <span class="new badge" data-badge-caption="">
+                2017-05-31
+              </span>
+            </div>
+            <div class="card-content">
+              <h3 class="card-title" title='打造災時不會當機的防災資訊系統' style='margin-top:0;font-weight: bold;'>打造災時不會當機的防災資訊系統</h3>
+              <div class='card-proj-content' title='結合防災救災兩階段的資料，建立單一資訊查詢入口；改變系統架構，在平時使用最低資源運作，又可以在災害來臨時期自動擴充，因應大爆量的資料查詢。'>
+                結合防災救災兩階段的資料，建立單一資訊查詢入口；改變系統架構，在平時使用最低資源運作，又可以在災害來臨時期自動擴充，因應大爆量的資料查詢。
+              </div>
+            </div>
+          </a>
+        </div>
+        
+
+      
+
+        <div class="col s12 m4">
+          <a href='/zh-TW/project/vege-price/' class="card grey-text text-darken-4 hoverable" style='display:block'>
+            <div class="card-image dim" style='background:url("https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=3300") center / cover no-repeat'>
+              <span class="new badge" data-badge-caption="">
+                2017-04-06
+              </span>
+            </div>
+            <div class="card-content">
+              <h3 class="card-title" title='跟菜價有關的資訊通通都放在這裡！' style='margin-top:0;font-weight: bold;'>跟菜價有關的資訊通通都放在這裡！</h3>
+              <div class='card-proj-content' title='要如何應用資訊技術，整合各部會掌握的資訊，而這些資訊也必須轉化為結構化的開放資料，才能在不增加現有部會業務目標下，日復一日即時提供民眾資訊。'>
+                要如何應用資訊技術，整合各部會掌握的資訊，而這些資訊也必須轉化為結構化的開放資料，才能在不增加現有部會業務目標下，日復一日即時提供民眾資訊。
+              </div>
+            </div>
+          </a>
+        </div>
+        
+
+      
+    </div>
+
+    
+    <div class='center section'>
+      <a href="/zh-TW/project" class="btn-large waves-effect waves-light cyan">
+        更多專案
+        <i class="material-icons right notranslate">send</i>
+      </a>
+    </div>
+    
+
+  </section>
+</div>
+
+  </div>
+</div>
+
+<div class="container">
+  <h3 class="center">部落格</h3>
+  
+
+<div class="posts section">
+  <section>
+
+    <div class="collection">
+      
+
+      
+      <a class="collection-item white-text center dim" href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-AI-%E8%88%87%E8%80%81%E5%B8%AB%E5%82%85/" style="background:url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/b/bf74b4534e016990033a3a484b8cd79f12eb4fab.jpg') center / cover">
+        <h3 class="title">商周專欄：AI 與老師傅</h3>
+        <p style='display:inline-block'>
+          <span class="new badge" data-badge-caption="" style='margin:0'>
+            2018-07-19
+          </span>
+        </p>
+        <p class='container'>
+          「搶救水寶寶」把老師傅的智慧納入，在協作中解決了問題，又讓人的價值找到新的定位，這才是讓我們期待的事。
+        </p>
+      </a>
+      
+      <a class="collection-item white-text center dim" href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E6%9C%A8%E9%B1%89%E8%91%89%E7%9A%84%E5%95%9F%E7%A4%BA/" style="background:url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/b/b3847c96045edae82bc127c07d93ade99863b151.jpg') center / cover">
+        <h3 class="title">商周專欄：木鱉葉的啟示</h3>
+        <p style='display:inline-block'>
+          <span class="new badge" data-badge-caption="" style='margin:0'>
+            2018-06-21
+          </span>
+        </p>
+        <p class='container'>
+          Ulang、Lamen 和 Kanew 的故事也是如此：前面辛苦，終將慢慢回甘。
+        </p>
+      </a>
+      
+      <a class="collection-item white-text center dim" href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E5%9C%A8%E5%9C%B0%E5%A4%A5%E4%BC%B4-%E5%85%B1%E5%89%B5%E4%BA%9E%E6%B4%B2%E6%9C%AA%E4%BE%86/" style="background:url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/0/08b38a4651ca9cf8163529894a98ad0627de97f5.jpg') center / cover">
+        <h3 class="title">商周專欄：在地夥伴 共創亞洲未來</h3>
+        <p style='display:inline-block'>
+          <span class="new badge" data-badge-caption="" style='margin:0'>
+            2018-05-24
+          </span>
+        </p>
+        <p class='container'>
+          我們的使命之一，就是認識共同解決社會問題的朋友，幫忙解決大家的問題。
+        </p>
+      </a>
+      
+    </div>
+
+    
+    <div class='center section'>
+      <a href="/zh-TW/blog" class="btn-large waves-effect waves-light cyan">
+        更多部落格
+        <i class="material-icons right notranslate">send</i>
+      </a>
+    </div>
+    
+
+  </section>
+</div>
+</div>
+
+
+    
+
+
+<footer class="page-footer cyan lighten-4 notranslate">
+  <div class="container">
+    <div class="row">
+      <div class="col l6 s12">
+        <h5 class="grey-text text-darken-3">關於 PDIS</h5>
+        <p class="grey-text text-darken-3">我們協助政府部會提升數位服務品質，以創新方式改善和增進公務體系的工作流程、方針規則及使用工具。</p>
+        <div class='about-logos' style="letter-spacing:1ch;">
+          <a href="//pdis.tw"> <img alt="logo" class="circle hoverable" src="/images/pdis-logo-final-inverse.png" style="width:3rem;vertical-align:bottom;"> </a>
+          <a href="//www.youtube.com/PdisTwGov" target="_blank"> <i class="fa fa-3x fa-youtube-play"></i> </a>
+          <a href="//github.com/pdis/web-jekyll" target="_blank"> <i class="fa fa-3x fa-github"></i> </a>
+          <a href="//www.facebook.com/shu.w.zhengwei" target="_blank"> <i class="fa fa-3x fa-facebook-square"></i> </a>
+          <a href="//twitter.com/TaiwanPDIS" target="_blank"> <i class="fa fa-3x fa-twitter-square"></i> </a>
+        </div>
+      </div>
+      <div class="col l3 s12">
+        <h5 class="grey-text text-darken-3">相關連結</h5>
+        <ul>
+          
+          
+          
+            
+            <li><p><a class="grey-text text-darken-3" href="https://talk.pdis.nat.gov.tw/">PDIS 討論區</a></p></li>
+          
+            
+            <li><p><a class="grey-text text-darken-3" href="https://github.com/PDIS/web-jekyll">PDIS 網站原始碼</a></p></li>
+          
+            
+            <li><p><a class="grey-text text-darken-3" href="https://github.com/PDIS/tools-manage-sandstorm">Sandstorm Tools</a></p></li>
+          
+            
+            <li><p><a class="grey-text text-darken-3" href="https://github.com/PDIS/swagger_file">API Sketches</a></p></li>
+          
+        </ul>
+      </div>
+      <div class="col l3 s12">
+        <h5 class="grey-text text-darken-3">資訊公開</h5>
+        <ul>
+          
+          
+          
+            
+            <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">數位經濟法規線上討論平台</a></p></li>
+          
+            
+            <li><p><a class="grey-text text-darken-3" href="http://join.gov.tw/">公共政策網路參與平臺</a></p></li>
+          
+            
+            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
+          
+            
+            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
+          
+            
+            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>          
+</footer>
+
+
+    <!--  Scripts-->
+<script src="/zh-TW/js/jquery.min.js"></script>
+<script src="/zh-TW/js/materialize.min.js"></script>
+<script src="/zh-TW/js/init.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.3/js/swiper.min.js"></script>
+
+<script>
+var mySwiper = new Swiper ('.swiper-container', {
+  direction: 'horizontal',
+  loop: false,
+  pagination: {
+    el: '.swiper-pagination',
+  },
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  }
+})
+</script>
+    
+    <div id="google_translate_element" class="translate-widget"></div><script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+      }
+      </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+              
+
+  </body>
+
+</html>

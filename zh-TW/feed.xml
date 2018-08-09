@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="/zh-TW/feed.xml" rel="self" type="application/atom+xml" /><link href="/zh-TW/" rel="alternate" type="text/html" hreflang="zh-TW" /><updated>2018-08-09T03:41:43+00:00</updated><id>/zh-TW/</id><author><name>PDIS</name></author><entry><title type="html">商周專欄：AI 與老師傅</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-AI-%E8%88%87%E8%80%81%E5%B8%AB%E5%82%85/" rel="alternate" type="text/html" title="商周專欄：AI 與老師傅" /><published>2018-07-19T00:00:00+00:00</published><updated>2018-07-19T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-AI-%E8%88%87%E8%80%81%E5%B8%AB%E5%82%85</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-AI-%E8%88%87%E8%80%81%E5%B8%AB%E5%82%85/">&lt;p&gt;颱風剛過，帶來豐沛的雨量。這是臺灣的福氣，夏季用水不虞匱乏；但這幾年來，穩定供水一直是臺灣面臨的挑戰。&lt;/p&gt;
+
+&lt;p&gt;🚰 大家可能不知道，臺灣有超過一半的水管，仍是 30 年前為了普及自來水而採用的塑膠水管。這些塑膠管限於經費，無法全面更換，導致目前全臺水管漏水率高達 15%，每年因管線損失的水將近 10 億噸。&lt;/p&gt;
+
+&lt;p&gt;👂 這是個大問題，有解嗎？的確有專家在做「抓漏」這件事。台水公司現有 80 位師傅，揹著可以放大 900 倍聲音的「檢漏器」，在下水道來回「聽測」，其中資深者已有 30 年的經驗。可是，他們 80 個人一個個下去，三年才能繞台灣一圈，即使不眠不休的工作，也很難即時發現新的漏水點。&lt;/p&gt;
+
+&lt;p&gt;這個燙手的問題，沒想到最近在一個 AI 技術下出現曙光。&lt;/p&gt;
+
+&lt;p&gt;📈  當初我在總統盃黑客松中，第一次看到「搶救水寶寶」團隊的提案，發現他們採用了「監督式學習」的技術，也就是讓抓漏的師傅們告訴機器，聽到怎樣的數據就表示有漏水，然後利用「深度學習」演算法預測，再實地檢核是否正確。等到這個「機器學徒」逐漸建立模型，就可以節省師傅們大量的時間和精力。&lt;/p&gt;
+
+&lt;p&gt;🕚 這樣的系統臺灣並非第一個發明，也有以色列公司開發商用的解決方案，但是所費不貲。而臺灣這套運用開放源碼寫成的系統，已達到七成的準確率，找到漏水源所花費的時間也降低到過去的十分之一。&lt;/p&gt;
+
+&lt;p&gt;🇳🇿 自主研發技術有一個好處：以後運用在別的場域上，例如智慧電錶或者天然氣管線，因為都有壓力跟流速，同樣可以配合這個概念。「搶救水寶寶」團隊也將在下個月代表臺灣，參加紐西蘭政府舉辦的加速計劃，為當地的缺漏水問題提供解方。&lt;/p&gt;
+
+&lt;p&gt;而這個案例有意思的是，坊間一直有一個聲音：AI 來了，人類的工作機會將被取代。&lt;/p&gt;
+
+&lt;p&gt;👴 例如抓漏的這 80 位師傅，AI 來了他們就失業了嗎？完全相反！機器學習的過程，會持續需要人類的智慧「灌」進去，不斷地讓人與機器互相學習，才能將問題一一破解。&lt;/p&gt;
+
+&lt;p&gt;💡 「搶救水寶寶」把老師傅的智慧納入，在協作中解決了問題，又讓人的價值找到新的定位，這才是讓我們期待的事。&lt;/p&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會創新" /><summary type="html">「搶救水寶寶」把老師傅的智慧納入，在協作中解決了問題，又讓人的價值找到新的定位，這才是讓我們期待的事。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/b/bf74b4534e016990033a3a484b8cd79f12eb4fab.jpg" /></entry><entry><title type="html">商周專欄：木鱉葉的啟示</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E6%9C%A8%E9%B1%89%E8%91%89%E7%9A%84%E5%95%9F%E7%A4%BA/" rel="alternate" type="text/html" title="商周專欄：木鱉葉的啟示" /><published>2018-06-21T00:00:00+00:00</published><updated>2018-06-21T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E6%9C%A8%E9%B1%89%E8%91%89%E7%9A%84%E5%95%9F%E7%A4%BA</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E6%9C%A8%E9%B1%89%E8%91%89%E7%9A%84%E5%95%9F%E7%A4%BA/">&lt;p&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%A4%AA%E9%9E%8D%E9%83%A8%E8%90%BD&quot;&gt;馬太鞍&lt;/a&gt;，是阿美族最大的部落，也是青年署在花蓮規劃的&lt;a href=&quot;https://youthtravel.tw/sub/travelspot/eastern/index.php?id=33&quot;&gt;青年壯遊點&lt;/a&gt;之一。以前這裡滿山滿谷都是 &lt;a href=&quot;https://amis.moedict.tw/#fata'an&quot;&gt;Fata’an&lt;/a&gt;（樹豆），「馬太鞍」便是由此音譯而來。&lt;/p&gt;
+
+&lt;p&gt;🏡 上月初我到馬太鞍部落參訪，遇見&lt;a href=&quot;https://www.mapulong.com/&quot;&gt;瑪布隆農場&lt;/a&gt;。主人 Ulang（柯春伎）向我們介紹農場時總是妙語如珠，逗得大家開懷大笑。四年前，她從家裡的土地開始創業，如今，瑪布隆農場靠著量多質精的有機野菜，打開知名度。&lt;/p&gt;
+
+&lt;p&gt;🤝 除了作物，瑪布隆農場也收穫了社區的情誼。Ulang 邀請族人一起工作，成為彼此的農事夥伴，更時常關懷鄰居：「巡田看到需要幫忙的人，我都會開車送他們，也常常幫忙看藥單、讀公文」她說。&lt;a href=&quot;https://amis.moedict.tw/#:mapolong&quot;&gt;Mapulong&lt;/a&gt; 在族語裡是「在一起」的意思，Ulang 確實透過行動，讓農場成為部落中的橋樑。&lt;/p&gt;
+
+&lt;p&gt;🌱 部落青年要怎麼找到與部落的連結？馬太鞍部落生態文化產業發展協會理事長 Lamen（蔡依靜）對此十分有感。十多年前，甫畢業的 Lamen 回到部落，從當時青輔會的遊學臺灣計畫至今，協助規劃一連串體驗，瑪布隆農場便是農業體驗的其中一環。&lt;/p&gt;
+
+&lt;p&gt;💪 Lamen 認為，這系列計畫雖屬小額，但效益卻是超乎想像——除了使更多人認識部落文化，東部經營壯遊點的各個族群，也透過一起發想推廣方式，建立更緊密的關係。&lt;/p&gt;
+
+&lt;p&gt;💯 和馬太鞍為鄰的&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%B7%B4%E5%A1%B1%E9%83%A8%E8%90%BD&quot;&gt;太巴塱&lt;/a&gt;（Tafalong）部落，同樣從十多年前開始&lt;a href=&quot;https://youthtravel.tw/sub/travelspot/eastern/services.php?pid=57&amp;amp;id=225&quot;&gt;參與計劃&lt;/a&gt;。如何讓青年朋友來到部落獲得深度體驗，則是太巴塱社區營造協會執行長 Kanew（蕭明山）和族人絞盡腦汁的課題——為此，他們甚至將原本只限部落參與的年祭&lt;a href=&quot;https://youthtravel.tw/eventsContent.php?id=498&amp;amp;secureChk=8cca1365ab64f567b55bc04a26c84c14&quot;&gt;對外開放&lt;/a&gt;。這些付出，讓太巴塱部落開展壯遊計畫至今，平均滿意度高達 99.8 分。&lt;/p&gt;
+
+&lt;p&gt;🌿 這讓我想起用餐時，湯裡的青菜一咬下去滿是苦味，沒過多久，竟驚喜地嚐到甘甜。部落的朋友說這是當地常見的野菜 &lt;a href=&quot;https://amis.moedict.tw/#sokoy&quot;&gt;sokoy&lt;/a&gt;（木鱉葉，秀姑巒阿美語系拼音）。Ulang、Lamen 和 Kanew 的故事也是如此：前面辛苦，終將慢慢回甘。&lt;/p&gt;
+
+&lt;p&gt;有空的朋友，不妨壯遊一趟，一起品嚐木鱉葉的味道。&lt;/p&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會企業" /><summary type="html">Ulang、Lamen 和 Kanew 的故事也是如此：前面辛苦，終將慢慢回甘。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/b/b3847c96045edae82bc127c07d93ade99863b151.jpg" /></entry><entry><title type="html">商周專欄：在地夥伴 共創亞洲未來</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E5%9C%A8%E5%9C%B0%E5%A4%A5%E4%BC%B4-%E5%85%B1%E5%89%B5%E4%BA%9E%E6%B4%B2%E6%9C%AA%E4%BE%86/" rel="alternate" type="text/html" title="商周專欄：在地夥伴 共創亞洲未來" /><published>2018-05-24T00:00:00+00:00</published><updated>2018-05-24T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E5%9C%A8%E5%9C%B0%E5%A4%A5%E4%BC%B4-%E5%85%B1%E5%89%B5%E4%BA%9E%E6%B4%B2%E6%9C%AA%E4%BE%86</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E5%9C%A8%E5%9C%B0%E5%A4%A5%E4%BC%B4-%E5%85%B1%E5%89%B5%E4%BA%9E%E6%B4%B2%E6%9C%AA%E4%BE%86/">&lt;p&gt;🌏 五月初，我到臺中與來自 15 國、超過 30 位的國際講者，一起參加「明日亞洲」亞太社會企業高峰會。這場由社企流、喜憨兒基金會、以立國際主辦，吸引上千人參與的盛會，讓我看見臺灣和世界的連結。&lt;/p&gt;
+
+&lt;p&gt;🐟 會場內外，30 多個場次、60 多個展攤，都讓我有不同的驚豔和啟發。其中印象最深刻的是與「幸運小鐵魚」創辦人 Gavin Armstrong 的對談。會前，我向 Gavin 詢問個人簡介時，他絲毫不談自己，完全將焦點放在全世界缺鐵問題的嚴重性上。&lt;/p&gt;
+
+&lt;p&gt;🍀 這樣的態度也反映在幸運小鐵魚的經營上，也就是與民眾一起集思廣益、找尋切合當地的解決方案——例如他們在柬埔寨建立的標誌「魚」，到了素食者居多的印度，就改成「樹葉」的造型。這樣細緻的照顧，見微知著地落實了「聚焦於社會問題、藉問題激發創新、讓創新帶領事業」的社創精神。&lt;/p&gt;
+
+&lt;p&gt;🍐 同樣的感受，也來自我看到臺中在地的「梨想生活」團隊，他們結合設計、小農等社企夥伴，將高接梨的廢棄梨梗，變身為別具巧思的筆枝，解決因焚燒梨梗產生的空汙問題。社企市集串起了在地農業、工藝、文創等生態系，讓世界各地的朋友看見臺灣的生命厚度和社會連結。&lt;/p&gt;
+
+&lt;p&gt;🔗 另外，這次高峰會成功地讓各界的講者，環繞著銀髮、食農、環保綠能、弱勢就業等社會議題現身說法，不但分享了社會創新如何改變自己的生命，也讓參與者從互補的角度提出實例。這樣的討論讓議題更為立體，也促使參加的人，更了解如何結合多方力量，呼應永續發展目標裡「跨部門夥伴關係」（SDG 17.17）的理念。&lt;/p&gt;
+
+&lt;p&gt;💝 我在跨部門座談時，提出這樣的比喻：政府各機關，就像是一個個 NPO（非營利組織）。我們的使命之一，就是認識共同解決社會問題的朋友，幫忙解決大家的問題。&lt;/p&gt;
+
+&lt;p&gt;🌄 就像陳建仁副總統在致詞時所說的，政府正在與各界共同規劃未來數年的「社會創新行動方案」，期待能透過「價值培育、資金取得、創新育成、法規調適、推動擴展、國際連結」等策略，繼續整合跨部會資源、協助有志於創新的朋友，為社會問題尋找共同的解方。而我，很高興也是其中一員。&lt;/p&gt;
+
+&lt;center&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/QtykZeZRe88&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;</content><author><name>唐鳳、彭筱婷、魏守斌、薛雅婷</name></author><category term="blog" /><category term="社會企業" /><summary type="html">我們的使命之一，就是認識共同解決社會問題的朋友，幫忙解決大家的問題。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/0/08b38a4651ca9cf8163529894a98ad0627de97f5.jpg" /></entry><entry><title type="html">蘇花改會是機車安全回家的路嗎？協作會議現場觀察</title><link href="/zh-TW/blog/%E8%98%87%E8%8A%B1%E6%94%B9%E6%9C%83%E6%98%AF%E6%A9%9F%E8%BB%8A%E5%AE%89%E5%85%A8%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF%E5%97%8E-%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F/" rel="alternate" type="text/html" title="蘇花改會是機車安全回家的路嗎？協作會議現場觀察" /><published>2018-04-29T00:00:00+00:00</published><updated>2018-04-29T00:00:00+00:00</updated><id>/zh-TW/blog/%E8%98%87%E8%8A%B1%E6%94%B9%E6%9C%83%E6%98%AF%E6%A9%9F%E8%BB%8A%E5%AE%89%E5%85%A8%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF%E5%97%8E%3F%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F</id><content type="html" xml:base="/zh-TW/blog/%E8%98%87%E8%8A%B1%E6%94%B9%E6%9C%83%E6%98%AF%E6%A9%9F%E8%BB%8A%E5%AE%89%E5%85%A8%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF%E5%97%8E-%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F/">&lt;p&gt;2018年4月27日，PDIS小組假空總社會創新中心，召開第三十二次協作會議，討論多車種通行蘇花改的議題。&lt;/p&gt;
+
+&lt;h4 id=&quot;蘇花改未規劃通行機車引爭議&quot;&gt;蘇花改未規劃通行機車引爭議&lt;/h4&gt;
+
+&lt;p&gt;蘇花改全名為台9線蘇花公路山區路段改善計畫，2009年開始規劃，於2011年開始動工，2018年2月5日，蘇澳至東澳段完工先行通車，並開放小型車通行。由於蘇花改並未開放機車或重型機車通行，因此一開放就有不少機車族抗議，認為蘇花改禁止機車通行是歧視機車族，引發爭議。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/3/350438d6348a63737e45c0bee581b542f5cad01a_1_580x500.jpg&quot; /&gt;
+  &lt;figcaption&gt;蘇花改路段概況，圖片取自&lt;a href=&quot;https://thbu4.thb.gov.tw/page?node=6861c85c-e12e-468e-b885-f3e9d29d40ed&quot; target=&quot;_blank&quot;&gt;認識蘇花改&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;此案經網友Xiu Ming在2月5日於公共政策參與平台上提案「&lt;a href=&quot;https://join.gov.tw/idea/detail/4afaf924-a334-4d90-b580-a2183a87993c&quot;&gt;開放蘇花改多車種通行&lt;/a&gt;」，2月9日成案後，於3月15日就跨越5000人連署的門檻。經過開放政府聯絡人月會的討論，成為協作會議的討論主題。&lt;/p&gt;
+
+&lt;p&gt;此案的核心問題在於，台灣機車用路人習慣與國外並不相同，交通部長期以來也規劃汽機車分流的政策。台灣的工程環境設計以機車為對象，機車行駛空間未獲合理分配，導致機車族長期以來也缺乏車道化概念。&lt;a href=&quot;https://www.iot.gov.tw/Modules/Publication/Publication-Details?node=3598166a-c839-4f0d-8beb-33c093e49de0&amp;amp;id=40b33382-06bb-4c86-9c38-2affa9c17e12&quot;&gt;機車政策白皮書&lt;/a&gt;中指出，透過強化機車駕駛教育訓練機制，或是高齡者繼續或放棄使用車輛的安全機制，以強化機車族的用路習慣。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/e/e24c0a6c493a601dad9bcf5a69161b898741dc37.png&quot; /&gt;
+  &lt;figcaption&gt;機車政策白皮書所提出之願景與方案&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;機車權益促進會蘇花公路較蘇花改危險&quot;&gt;機車權益促進會：蘇花公路較蘇花改危險&lt;/h4&gt;
+
+&lt;p&gt;一位來自花蓮的附議人說，他一年大概走20次蘇花公路，對這條路的印象就是「恐懼」兩個字。機車權益促進會也認為，對機車族來說，蘇花公路有更危險的環境、高違規路段、狹窄的道路、不佳的夜間視線，以及更長的行駛時間。相較之下，蘇花改的隧道直很多，內部空間也比較寬敞，應該是更安全的一條路。高公局之前曾指出隧道內的空氣、噪音影響機車騎士的身體與心理，以及機車與汽車混流的危險，因此不開放蘇花改通行機車。提案人認為，目前隧道內的空氣並不影響身體，更何況日本也有18公里的山手隧道，一樣開放機車通行，質疑交通部把為小的風險無限上綱的放大，卻忽視了蘇花公路的高風險。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/9/91e7f22df03a7a0290dc1d350f79671540af15a3_1_690x388.JPG&quot; /&gt;
+  &lt;figcaption&gt;附議人說明蘇花公路的危險性&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;交通部車種分流才有安全的路&quot;&gt;交通部：車種分流，才有安全的路&lt;/h4&gt;
+
+&lt;p&gt;交通部報告則指出，蘇花公路已經用80幾年了，過往設計其實車種沒有這麼多，因此路段的設計沒有很好。目前已經有蘇花改革計畫改善蘇花公路坍方的狀況。至於蘇花改，當初規劃時希望能對附近的生態、聚落影響度降低，因此配置雙向雙車道，車種方面也採用分階段與分流的方式進行。&lt;/p&gt;
+
+&lt;p&gt;交通部解釋，未來規劃蘇花改上通行大貨車、通過性的大客車、小客車，而蘇花公路將會規劃為休憩道路，禁止大貨車通行，僅有觀光性的大客車、小客車、機車與自行車通行。透過這個方式讓最容易出車禍的大貨車與機車分流，這兩條路都會是安全的路。&lt;/p&gt;
+
+&lt;p&gt;至於若是開放機車進入蘇花改，由於蘇花改有速限，機車碰撞後更容易發生傷亡，因此不希望開放機車通行蘇花改的隧道。&lt;/p&gt;
+
+&lt;p&gt;交通部也補充，目前若是颱風來，蘇花公路無法通行時，會規劃機車通行蘇花改的緊急應變方案。屆時蘇花改會禁止汽車以上的車輛通行，機車騎士在某個地點集結之後，透過前引後導的方式一起通行蘇花改。在後續的討論中，主持團隊釐清了雙方都同意的論點，大家希望能降低隧道內的肇事機率，也希望能強化機車的用路習慣，降低機車在路上的傷亡。&lt;/p&gt;
+
+&lt;p&gt;不過，雙方對於一些數字仍有一些爭議。交通部指出，目前試行重機通行的國道觀察發現，機車的違規機率比一般的車輛更高；但機車權益促進會則認為，比起一般道路，重機在國道上的傷亡比率更低，國道對重機而言是更安全的選擇。高公局也指出，過往規劃這些道路時都甚少與使用族群討論，但目前在蘇花景觀道路的規劃上已經提早與在地居民溝通，未來也會預先調查民眾的需求，再進行道路的規劃。&lt;/p&gt;
+
+&lt;p&gt;雖然對於重機能否上國道雙方均有不同立場，但無論交通部或機車權益促進會，均認同應盡量推動機車車道化的行車概念，以減少機車行車上的危險。&lt;/p&gt;
+
+&lt;p&gt;下午的討論則針對如何安全通行蘇花公路、蘇花改進行討論，在討論後，兩組分別報告各自討論的結果。&lt;/p&gt;
+
+&lt;h4 id=&quot;分組協作先期研究試行機車有共識&quot;&gt;分組協作，先期研究、試行機車有共識&lt;/h4&gt;
+
+&lt;p&gt;第一組一開始聚焦討論蘇花改無法通行機車的原因。機車權益促進會認為，可在蘇花改隧道入口放置溫度、空氣品質之數值，讓機車騎士自行選擇是否要進入；在機車用路方面，可以制定更嚴謹的規定，強制機車在隧道內必須以車道化的方式行車，並透過監視器嚴格執法。如果擔心空氣品質太糟，也可以規劃流量管制。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/d/d47f87becdf8b00993ceb9a41dd5000b81db8074_1_690x388.JPG&quot; /&gt;
+  &lt;figcaption&gt;第一組討論狀況&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;公路總局認為這些配套並不夠。公路總局表示，蘇花改隧道在一開始就已經規劃要排除機車行駛，因此只採用一個快速車道加上一個緊急車道的設計。若是要開放機車通行，隧道的設計需要大幅度調整，包括斷面、車道、機電、交通控制、緊急應變計畫都要調整。公路總局指出，日本的山手隧道為了讓機車通行，特別改善了隧道的通風設備，並增加水霧設備以控制隧道內的溫度。反觀蘇花改隧道並未規劃讓機車通行，因此空氣品質、溫度控制、甚至車道等都不適合機車通行，就是因為規劃未涵蓋機車的結果。&lt;/p&gt;
+
+&lt;p&gt;不過，公路總局承諾，未來可以先發包做機車通行長隧道之研究報告，以及發包評估機車通行蘇花改之可行性。這些研究報告將來都可以成為台灣長隧道規劃時參考使用。&lt;/p&gt;
+
+&lt;p&gt;至於蘇花公路的改善方面，第一組的討論建議部分路段應建明隧道，或是規劃機車專用道，未來如果真的禁止大貨車通行，就應該嚴格執法，甚至大客車要進入也應經過申請審核。部分路段應該進行截彎取直，也要注意照明狀況，增加一些路燈。&lt;/p&gt;
+
+&lt;p&gt;第二組的討論則對試辦機車通行有比較明確的共識。可能在大客車全部車種都開放之後，再來做試辦，這樣才會有後續的資料，作為機車開放與否的評估資料。在隧道環境方面，也需要預先收集國際上通行機車之隧道的溫度、空氣品質等相關標準。&lt;/p&gt;
+
+&lt;p&gt;第二組討論也發現，機車權益促進會與交通部在「安全」的標準上不一致，建議後續要一起評估，才能有聚焦的討論。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/1/1bd8d1a6b2dd9e99a0bb43faa3af0e5a26a2be0b_1_690x388.JPG&quot; /&gt;
+  &lt;figcaption&gt;第二組討論狀況&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;未來，希望這類道路在規劃之前，就能有機車相關的學者、團體一起加入評估，也希望能藉著這個機會訂定大家都能接受的機車行駛開放條件的共同標準，才不會大家各自標準不一樣。&lt;/p&gt;
+
+&lt;p&gt;這些意見在經過綜整之後，會由政委唐鳳將&lt;a href=&quot;https://realtimeboard.com/app/board/o9J_kz3FWa0=/&quot;&gt;會議結論&lt;/a&gt;帶到政務會議去報告，讓行政院長及相關部會首長能拿到這些討論結果，作為後續政策研議之用。&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500&quot; title=&quot;realtimeboard&quot; src=&quot;https://realtimeboard.com/app/embed/o9J_kz3FWa0=/?&amp;amp;pres=1&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VbwKBK24T_g&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;與會者期待建立先期諮詢機制&quot;&gt;與會者期待建立先期諮詢機制&lt;/h4&gt;
+
+&lt;p&gt;與會的國會助理表示，很難得看到行政機關能採用這樣的會議形式，希望會議能有一些具體的成果，將來立法院在討論時也能參考相關資料。對於心智圖的形式，他也頗為讚賞，認為這樣可以看到議題的全貌。公務同仁也表示，議題心智圖整理的很清楚，更有系統，，脈絡也更清楚。&lt;/p&gt;
+
+&lt;p&gt;與會者則表示，之前只有開過公聽會的經驗，今天的協作會議跟公聽會有些不一樣，主持人相對中立，也希望能用在其他議題的討論上。他們認為改善討論環境已經很不錯了，公聽會只有發公函，也不知道後續有沒有積極作為。&lt;/p&gt;
+
+&lt;p&gt;與會者認為，政府未來應該以協作會議的精神建立各種諮詢會議，在政策規劃之前就先聆聽不同民眾的聲音與想法，也要翔實調查不同的證據，「前面的諮詢程序要建立起來，不然這種爭議會越來越多。」&lt;/p&gt;</content><author><name>雨蒼</name></author><category term="blog" /><category term="JOIN平台" /><summary type="html">由於蘇花改並未開放機車或重型機車通行，因此一開放就有不少機車族抗議，認為蘇花改禁止機車通行是歧視機車族，引發爭議。此次會議討論後，公路總局承諾將會發包做機車通行長隧道之相關研究，供後續政策參考。未來，這類道路在規劃之前，也希望能有機車相關的學者、團體一起加入評估，讓規劃能更完善。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/b/b47fb29c6be0f07c367fff2529cad68e7d0e377e_1_690x286.jpg" /></entry><entry><title type="html">商周專欄：社會創新 帶動法規創新</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E7%A4%BE%E6%9C%83%E5%89%B5%E6%96%B0-%E5%B8%B6%E5%8B%95%E6%B3%95%E8%A6%8F%E5%89%B5%E6%96%B0/" rel="alternate" type="text/html" title="商周專欄：社會創新 帶動法規創新" /><published>2018-04-25T00:00:00+00:00</published><updated>2018-04-25T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E7%A4%BE%E6%9C%83%E5%89%B5%E6%96%B0-%E5%B8%B6%E5%8B%95%E6%B3%95%E8%A6%8F%E5%89%B5%E6%96%B0</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E7%A4%BE%E6%9C%83%E5%89%B5%E6%96%B0-%E5%B8%B6%E5%8B%95%E6%B3%95%E8%A6%8F%E5%89%B5%E6%96%B0/">&lt;p&gt;上任之初，我曾與前政委馮燕老師會面，交接社會企業相關業務。當時老師提及，若能調整法規，讓非營利組織（NPO）可以設立公司型態的社會企業，將可降低成立社企的成本。&lt;/p&gt;
+
+&lt;p&gt;🌱 去年十月&lt;a href=&quot;https://sayit.pdis.nat.gov.tw/2017-10-31-%E7%A4%BE%E6%9C%83%E4%BC%81%E6%A5%AD%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B7%A1%E8%BF%B4%E6%9C%83%E8%AD%B0#s110683&quot;&gt;第一次社會企業行動巡迴座談&lt;/a&gt;，讓我看見實驗的契機。&lt;/p&gt;
+
+&lt;p&gt;當時，社團法人臺灣基督教好牧人全人關顧協會提出，想以社團法人的名義設立閉鎖性公司，在注入經營和管理專業的同時，又能充份運用「一股多權」的設計，確保經營方向與協會使命的扣合。&lt;/p&gt;
+
+&lt;p&gt;🖇 由於過去少有「NPO 籌設公司」案例，加上社團法人和公司設立分屬不同部會業務，因此座談後，經濟部中企處便&lt;a href=&quot;https://sayit.pdis.nat.gov.tw/2018-01-05-%E7%A4%BE%E5%9C%98%E6%B3%95%E4%BA%BA%E7%99%BC%E8%B5%B7%E6%88%96%E6%8A%95%E8%B3%87%E7%A4%BE%E6%9C%83%E5%89%B5%E6%96%B0%E5%9E%8B%E9%96%89%E9%8E%96%E6%80%A7%E5%85%AC%E5%8F%B8%E5%AF%A9%E6%A0%B8%E6%A9%9F%E5%88%B6%E8%A6%8F%E7%95%AB%E5%8D%94%E8%AA%BF%E6%9C%83&quot;&gt;積極展開協調&lt;/a&gt;，釐清各單位的意見：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;依現行人民團體法規定，社會團體以公益為目的，必須從事章程中的任務，籌設「公司」是否符合章程，是內政部的主要考量。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;而衛福部認為，好牧人協會的宗旨是社會福利服務，成立社企後業務更廣泛，如何認定主管機關，需要更細緻地討論。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;經濟部商業司則提醒，非營利組織發起公司設立登記，需要主管機關的許可函，此外，新公司必須符合原先法人的公益使命。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;📇 經歷多次討論後，我們盤點出「社團法人發起或投資社會創新型閉鎖性公司」的審查流程：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;首先，社團法人必須召開會員大會修改章程，增加「可允許設立符合公益使命之公司」的條文，再將新的章程，報請內政部核備。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;內政部在會商各目的事業主管機關回覆意見後，即可決定是否核准。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;拿到許可函後，協會便可向經濟部商業司提出公司設立申請。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;🚥 經濟部中企處研擬中的《中小及新創企業發展條例》中，有個「一般性法規沙盒」的機制，目的是打造安全空間，讓投入新創事業的朋友，在特定時間內，可以不受法律拘束地盡情實驗，若可行就修法，與時俱進。這個案子就是用類似的精神，歸納出試辦規則。&lt;/p&gt;
+
+&lt;p&gt;好牧人協會遵循上述流程，已獲得許可函，正準備公司設立申請。感謝各部會朋友全力協助，正如魯迅所說：「地上本沒有路，走的人多了，也便成了路。」我期待這是一個起點，讓「個案實驗，建立通則」的做法，繼續為社會試驗出創新的道路。&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/0/001fc8eadae68d58b8ae817a22ac819d9bd89df3.jpg&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/center&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會企業" /><summary type="html">經歷多次討論後，我們盤點出「社團法人發起或投資社會創新型閉鎖性公司」的審查流程。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/0/001fc8eadae68d58b8ae817a22ac819d9bd89df3.jpg" /></entry><entry><title type="html">超徵退稅有譜？與會者與財政部認知差距大</title><link href="/zh-TW/blog/%E8%B6%85%E5%BE%B5%E9%80%80%E7%A8%85%E6%9C%89%E8%AD%9C-%E8%88%87%E6%9C%83%E8%80%85%E8%88%87%E8%B2%A1%E6%94%BF%E9%83%A8%E8%AA%8D%E7%9F%A5%E5%B7%AE%E8%B7%9D%E5%A4%A7/" rel="alternate" type="text/html" title="超徵退稅有譜？與會者與財政部認知差距大" /><published>2018-04-21T00:00:00+00:00</published><updated>2018-04-21T00:00:00+00:00</updated><id>/zh-TW/blog/%E8%B6%85%E5%BE%B5%E9%80%80%E7%A8%85%E6%9C%89%E8%AD%9C%3F%E8%88%87%E6%9C%83%E8%80%85%E8%88%87%E8%B2%A1%E6%94%BF%E9%83%A8%E8%AA%8D%E7%9F%A5%E5%B7%AE%E8%B7%9D%E5%A4%A7</id><content type="html" xml:base="/zh-TW/blog/%E8%B6%85%E5%BE%B5%E9%80%80%E7%A8%85%E6%9C%89%E8%AD%9C-%E8%88%87%E6%9C%83%E8%80%85%E8%88%87%E8%B2%A1%E6%94%BF%E9%83%A8%E8%AA%8D%E7%9F%A5%E5%B7%AE%E8%B7%9D%E5%A4%A7/">&lt;p&gt;4月20日，財政部與PDIS小組於財政部資訊中心召開「&lt;a href=&quot;https://join.gov.tw/idea/detail/78356a42-c8bb-45f2-a13f-5418fcf79cef&quot;&gt;超額徵收之稅款-歸還於民&lt;/a&gt;」一案之協作會議。&lt;/p&gt;
+
+&lt;p&gt;此案由Jenny Wang於2018年2月4日提案後，於2月25日達到5000人門檻，經過開放政府聯絡人月會之投票後，由財政部與PDIS小組一起舉辦。&lt;/p&gt;
+
+&lt;p&gt;提案人在提案中建議財政部應該修法，將超額徵收的總稅收平均分配給納稅人，或是抵扣下一年度的應繳稅款。她認為這樣的提案可以刺激消費，並促進經濟發展。不過，財政部並不認為這樣的說法合理。&lt;/p&gt;
+
+&lt;h4 id=&quot;協作會議-與會者不熟悉&quot;&gt;協作會議 與會者不熟悉&lt;/h4&gt;
+
+&lt;p&gt;在當天會議一開始，與會的吳景欽老師就不斷提出程序議題，他認為此次的會議並未預先於一個星期左右提出資料，讓他有「突襲」的感覺；會議現場雖然有心智圖，但他認為心智圖很難看懂，應該提供文書資料以預先閱讀。在人數方面，他認為現場的官員比民眾多，「看起來不是要來聆聽民意的」，擔憂「民眾會沒有發言權」，因此多次提出抗議。&lt;/p&gt;
+
+&lt;p&gt;主持團隊雖然有說明，與會者的選擇並不是以人數作為選擇，而是希望與會者能盡量呈現多元意見，因此有一些人數上的限制。不過，吳景欽老師並未接受，仍多次認為程序上有問題。&lt;/p&gt;
+
+&lt;h4 id=&quot;財政部解釋預算數僅是預估值&quot;&gt;財政部解釋，預算數僅是預估值&lt;/h4&gt;
+
+&lt;p&gt;由於此次會議提案人並未到場，因此依照慣例，由財政部先行說明。財政部指出，我國的財政運作是在年初先預估國家支出的「歲出」，以及今年度可能收到的「歲入」。但是這只是預估值，年底在計算實際數值時可能與預估有落差。若是實際歲入小於預估歲入就稱為「短徵」，實際歲入若是大於預估歲入則稱為「超徵」，但超徵、短徵均與歲出無關，也就是說，就算歲入上有超徵，歲出也可能遠高於實際的歲入，導致國家財政仍為赤字。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/d/dfa25397e6f30e5036be470a2ec7557fe708ef14_1_690x461.png&quot; /&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/4/40d7966e527f2d0d48406e50c53ab4064e2f9b3b_1_690x467.png&quot; /&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/e/e31a97459b523fdf8b72368fe5373c3591433e4f_1_690x457.png&quot; /&gt;
+  &lt;figcaption&gt;財政部以投影片說明財稅基本知識&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;財政部指出，當年度債務舉借的數目會依歲入及歲出執行的狀況而定，由於過去數年均有超徵，因此政府債務上升的速度已經持續減緩。也就是說，由於近年來實際歲出均高於實際歲入，因此超徵了多少錢，當年度就會少借貸一些金額。陳國樑老師則在後續的說明中補充，如果民眾希望這些金額退稅於民，那麼政府就得額外借貸，恐怕會出現「代際掠奪」的狀況，也就是從後代子孫口袋拿錢出來退稅。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/4/412c7d16f4c6eefe7d8424e3a6b77080b6d9770b_1_690x471.png&quot; /&gt;
+  &lt;figcaption&gt;財政部說明政府仍有公共負債&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;對於提案人認為「超徵應該退稅於民」的說法，財政部解釋，大部分能夠還利於民的國家，財政狀況都相當良好，歲入大於歲出而有財政盈餘，因此可以退稅。就算還利於民或退稅以振興經濟，也得在隔年的預算中編列，經過立法院審核，才能真的退稅；況且，目前超徵的狀況各個稅目均不同，如消費稅若是超徵，也很難知道要退給誰。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/a/a9eb41577b200135bd5fa2b01ed04d8f7de750ed_1_689x467.png&quot; /&gt;
+  &lt;figcaption&gt;近四年度各稅目短徵情形&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;而提案人文案中提到的「超徵紅包」，財政部解釋，依據財政收支劃分法，國稅的稅收有一定比例屬於地方政府。因此，在計入中央政府的歲入之前，這些稅收就已經有固定比例分給地方政府。只是年初、年中的分配依照預估的數值分配，到年末時，由於已經有稅收的決算數值，因此會依照稅收的決算數進行分配。若是該年度有超徵，分配的金額也會較高，媒體會稱為「超徵紅包」，但事實上這些數值都是依照法律來做的既定分配，分配之後的稅收金額才會計入中央政府的歲入。&lt;/p&gt;
+
+&lt;p&gt;陳國樑老師在後續的報告中指出，超徵的原因有很多，很可能財政部為了比較好達標而短估了一些數值，他建議未來財政部不要再使用「超徵」這個詞彙，以免造成民眾誤會。他建議財政部未來應該持續檢討短估的原因，或是改用區間的方式來預測當年度的歲入。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/0/04c9a4f00a2b224680e61c5993f5ebb1e0344599_1_690x388.JPG&quot; /&gt;
+  &lt;figcaption&gt;陳國樑老師說明超徵的本質&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;不過，財政部的發言似乎並未讓與會的附議人了解。雖然與會者均同意超徵的定義與財政部相同，在財政部報告後，附議人仍持續質疑財政部連年超徵是違法以及無效率的表現，質疑超徵的金額可能在立法院沒有確實審查的狀況下被違法使用。經過主持團隊的收斂，稍微釐清了附議人的看法。&lt;/p&gt;
+
+&lt;h4 id=&quot;附議人認為超徵起因為財政部違法課稅&quot;&gt;附議人認為，超徵起因為財政部違法課稅&lt;/h4&gt;
+
+&lt;p&gt;附議人認為，財政部連年的超徵是違法以及無效率的表現，進一步他們質疑，超徵可能是因為財政部以稅務獎勵金鼓勵課稅員違法課稅，這些違法課稅導致有些人家破人亡，有些產業因此出走。他們認為超徵的金額被違法的拿來發放稅務獎勵金，質疑有些稅務獎勵金可能成為不法所得。提案人認為，台灣連年的經濟已經很不景氣了，應該拿這些超徵的錢發還給民眾，透過這個方式刺激內需，促進經濟發展。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/2/2f736ba1948c7f19fc45eab4ab4fc85f7d8fa53c_1_690x388.JPG&quot; /&gt;
+  &lt;figcaption&gt;提案方說明超徵退稅之倡議緣由&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;財政部則回應，所有的課稅都是依法課稅，若是發生違法課稅的狀況，政府有救濟管道可以使用，也可以到行政法院打官司由法官來裁定；稅務獎勵金的部份則在之前的提案中已經回應過，今天希望能聚焦超徵的相關討論。至於促進經濟發展，根據陳國樑老師的報告，若是要促進經濟發展，擴大公共支出可能比退還給民眾更有效益。&lt;/p&gt;
+
+&lt;p&gt;雙方隔空交火多次，協作會議也難以進入下午的小組討論，在時間有限下，只能先整理&lt;a href=&quot;https://realtimeboard.com/app/board/o9J_kz3AqVk=/&quot;&gt;雙方論點&lt;/a&gt;，提供後續參考。在會議的最後，唐鳳政委辦公室的賴致翔說明，此次協作會議的結果將會由政委在政務會議中向院長與相關部會首長參考，作為後續政策規劃的參考。&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500&quot; title=&quot;realtimeboard&quot; src=&quot;https://realtimeboard.com/app/embed/o9J_kz3AqVk=/?&amp;amp;pres=1&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/277xxY5_t70&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;會議無共識與會者仍堅持原先看法&quot;&gt;會議無共識，與會者仍堅持原先看法&lt;/h4&gt;
+
+&lt;p&gt;雖然此次會議有多次雙方交火，但與會的附議者仍認為這次會議有比較多說明與聚焦，也感謝主持團隊彙整了他們的觀點。他們認為，財政部的官員能來參與會議是誠意的展現，但也許背後有更大的陰謀蒙蔽了這些與會的官員。&lt;/p&gt;
+
+&lt;p&gt;附議者認為，由於之前剛好中選會表示&lt;a href=&quot;https://www.cec.gov.tw/central/cms/bulletin/27242&quot;&gt;超徵退稅的公投案需要召開公聽會釐清議題&lt;/a&gt;，可能有與會的人混淆了公聽會與這次的協作會議。附議者們認為，財政部的說明他們仍聽不懂，仍希望財政紀律的部份能有改善，亦希望能透過退稅的方式，讓台灣的經濟能再次成長。&lt;/p&gt;</content><author><name>雨蒼</name></author><category term="blog" /><category term="JOIN平台" /><summary type="html">此次協作會議討論超徵議題，但提案方與財政部認知差距大，雙方多次隔空交火，協作會議也難以進入下午的小組討論，在時間有限下，只能先整理雙方論點，提供後續參考。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/e/e31a97459b523fdf8b72368fe5373c3591433e4f_1_690x457.png" /></entry><entry><title type="html">未婚女子能否使用人工生殖？正反雙方無共識</title><link href="/zh-TW/blog/%E6%9C%AA%E5%A9%9A%E5%A5%B3%E5%AD%90%E8%83%BD%E5%90%A6%E4%BD%BF%E7%94%A8%E4%BA%BA%E5%B7%A5%E7%94%9F%E6%AE%96-%E6%AD%A3%E5%8F%8D%E9%9B%99%E6%96%B9%E7%84%A1%E5%85%B1%E8%AD%98/" rel="alternate" type="text/html" title="未婚女子能否使用人工生殖？正反雙方無共識" /><published>2018-04-15T00:00:00+00:00</published><updated>2018-04-15T00:00:00+00:00</updated><id>/zh-TW/blog/%E6%9C%AA%E5%A9%9A%E5%A5%B3%E5%AD%90%E8%83%BD%E5%90%A6%E4%BD%BF%E7%94%A8%E4%BA%BA%E5%B7%A5%E7%94%9F%E6%AE%96%3F%E6%AD%A3%E5%8F%8D%E9%9B%99%E6%96%B9%E7%84%A1%E5%85%B1%E8%AD%98</id><content type="html" xml:base="/zh-TW/blog/%E6%9C%AA%E5%A9%9A%E5%A5%B3%E5%AD%90%E8%83%BD%E5%90%A6%E4%BD%BF%E7%94%A8%E4%BA%BA%E5%B7%A5%E7%94%9F%E6%AE%96-%E6%AD%A3%E5%8F%8D%E9%9B%99%E6%96%B9%E7%84%A1%E5%85%B1%E8%AD%98/">&lt;p&gt;2018年4月13日，PDIS小組於空總社創中心召開第30次協作會議，討論單身女子是否可透過人工生殖擁有小孩。&lt;/p&gt;
+
+&lt;p&gt;此案是由網友Shu Kai Wu於2018年1月4日於公共網路政策參與平台提出「&lt;a href=&quot;https://join.gov.tw/idea/detail/53479b9a-8cbb-4ea0-9f16-2294c97f24ac&quot;&gt;開放單身女可以合法施行『人工受孕』及『試管嬰兒』&lt;/a&gt;」，經過網友連署，與開放政府聯絡人月會投票選出後，成為協作會議的主題。&lt;/p&gt;
+
+&lt;p&gt;經過數個月的籌備，4月13日於空總社創中心召開此次會議。本次會議亦製作&lt;a href=&quot;https://hackmd.io/c/Byg3w0-if/&quot;&gt;議題手冊&lt;/a&gt;，供與會者事前閱讀。&lt;/p&gt;
+
+&lt;h4 id=&quot;未婚者不適用人工生殖涉歧視與會者不同調&quot;&gt;未婚者不適用人工生殖涉歧視？與會者不同調&lt;/h4&gt;
+
+&lt;p&gt;在一開始，提案者報告認為，聯合國人權公約有保障人民的生殖權，此一權益除了應不分性傾向均平等以外，無論結婚與否，也應該受到一樣的保障。目前台灣的人工生殖僅確診為不孕症之夫妻可以使用，等同於歧視單身的女子。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/5/5a1cf8bdc150045df2c754c4022e445faf2b5383.JPG&quot; /&gt;
+  &lt;figcaption&gt;提案人提出人權與憲法保障&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;提案方指出，如果出國使用人工生殖的相關風險，包含使用過重的藥物、多胚胎植入會花費更多的金錢，以及最後可能導致健康與福祉的疑慮，為了保障相關需求者的權益，政府應開放單身女子使用人工生殖。&lt;/p&gt;
+
+&lt;p&gt;但反對者則認為，如果要使用人工生殖，為了增加成功機率，可能會有減胎的問題，而這造成對生命的傷害；宗教信仰上也不容許自慰取精的行為。反對者也認為，在一夫一妻忠貞婚姻之下，以自然性行為方式所生出的小孩，才能有幸福的家庭環境。&lt;/p&gt;
+
+&lt;p&gt;支持者則認為，我們應該對家庭要有多元的想像，現代社會的家庭已經越來越多元，我們應當了解家庭的多元性質，並給予適當的扶助。進一步也指出，兒童福祉的重要因素是穩定的家庭，而非特定形式的家庭結構。不過，反對方卻認為「自然法則代表對兒童最佳利益」，一男一女組成的家庭較好。&lt;/p&gt;
+
+&lt;p&gt;在未婚女子的定義方面也發生了一番爭論。反對方認為，未婚女子的定義應為「終生獨身」，亦即「永遠都準備單身、不要結婚、也無機會發生自然性行為者」，但經過一番討論，最後仍維持法律上的單身定義。&lt;/p&gt;
+
+&lt;p&gt;對於參考資料方面，雙方也進行了一番交鋒。衛福部所準備之資料中，關於反對此次提案的三項資料中被與會老師指出有嚴重問題，其中一項研究竟還引用大鼠之研究，恐會誤導在場與會者。反對方說，「不能因為有2篇論文支持不同的家庭型態，就認為98篇論文的主流意見是錯誤的」。在主持人請求會後提供資料後，反對方則說明，「2對98」的說法只是譬喻。&lt;/p&gt;
+
+&lt;p&gt;反對方質疑匿名捐精，在小孩無從得知自己父親下，有可能造成亂倫，認為「世界各地的精子銀行都是匿名的」，但現場一陣討論後，澄清此事並非事實。&lt;/p&gt;
+
+&lt;h4 id=&quot;分組會議-聚焦配套措施與兒童福祉&quot;&gt;分組會議 聚焦配套措施與兒童福祉&lt;/h4&gt;
+
+&lt;p&gt;下午的協作由顧問張芳睿與設計師林書漾帶領討論，從單身女子使用人工生殖之配套措施開始談起，嘗試找出可能的配套措施，以及與會者對價值方面的取捨。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/4/49e4e28b08cf172f38330f7ecece0e7331f2e0a8_1_690x388.JPG&quot; /&gt;
+  &lt;figcaption&gt;第一組討論狀況&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;第一組指出，人工生殖最大的問題是一出生就單親，但單親本身是問題，還是現象？這方面希望能夠憑藉專業的研究，比如追蹤單親家庭的子女發展如何加以了解；但目前的研究，幾乎都是針對異性戀離異、失和的家庭，所以目前而言，針對單身女人工生殖所產生的孩子問題，目前還沒找到相關研究。&lt;/p&gt;
+
+&lt;p&gt;若是僅針對單身女子做經濟或家庭支持狀況審核，恐怕會變成對單身者不公平，應一視同仁，所有要做人工生殖者都要檢驗經濟條件、家庭背景。另外，也要建構完善的社會安全網，以支撐所有對單親家庭的照顧。若是擔心小孩會在學校遭到歧視，可能需要有反歧視的教育。&lt;/p&gt;
+
+&lt;p&gt;若是希望兼顧孩童知道父親的權力，可以推動匿名與非匿名捐精並行，若是非匿名捐精，就可以設計制度讓孩子在成年後去查詢，適用單身女，也適用使用人工生殖的夫妻。&lt;/p&gt;
+
+&lt;p&gt;第二組則先找到共識，人工生殖法應該存在，但應該要定義好國家是否該照顧未婚者的生育權。接著，討論則分為兩個走向。&lt;/p&gt;
+
+&lt;p&gt;有一方認為人工生殖仍應該符合自然法則，應該以自然性交為主，線狀不需改變。但另一方認為雖然法律存在，但因為其是未婚女性，已經出現問題，比如歧視特定性傾向、婚姻狀況或是經濟能力，因此希望能推動修法，比如取消婚姻資格的限制。&lt;/p&gt;
+
+&lt;p&gt;討論時，也有與會的醫生指出，台灣目前確實也有未婚使用人工生殖的需求，有些家族會要求女友先懷孕才能結婚，這些人確實需要在未婚的狀況下使用人工生殖。&lt;/p&gt;
+
+&lt;p&gt;第二組同時也有另外一個共識，小孩的福祉是重要的，因此也許單親小孩評估時可以參考現行收養制度，找一些機構進行評估，或是諮商輔導、社工協助等等。不過，有一方認為孩子的成長缺乏男性典範會有不良影響，另外一方則認為，孩童並非要有父親，反而是長時間有支持性、良好的關係，才是孩童生長的關鍵因素。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/6/6e3c02e8e699a83a77c344dd21ca86e958c173aa_1_690x388.JPG&quot; /&gt;
+  &lt;figcaption&gt;第二組討論狀況&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;可能的風險方面，第二組一樣考量到小孩需要知道自己父親，可以考量讓捐精者選擇不匿名，或是參考其他國家推動狀況，或是參考國內NGO如「同志家庭權益促進會」所出版一些手冊。&lt;/p&gt;
+
+&lt;p&gt;另外一個風險與障礙是修法過程可能會曠日費時，可能需要專責機關加以督促。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://realtimeboard.com/app/board/o9J_kzqyEfc=/&quot;&gt;這些資料&lt;/a&gt;，都會在隔週的政務會議上，由政委唐鳳向院長以及相關部會首長報告，作為後續政策規劃參考之用。&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500&quot; title=&quot;realtimeboard&quot; src=&quot;https://realtimeboard.com/app/embed/o9J_kzqyEfc=/?&amp;amp;pres=1&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5f2lxZqZjXE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;會議難聚焦-提案人仍期待議題有推進&quot;&gt;會議難聚焦 提案人仍期待議題有推進&lt;/h4&gt;
+
+&lt;p&gt;提案人認為，原先期待提案後政府能往前進，也預期政府需要聆聽正反聲音才能做判斷，但是這場會議並未聚焦。她認為，主持人如何拉回焦點是很重要的事情。&lt;/p&gt;
+
+&lt;p&gt;對於下午的分組，提案人認為兩組若是談一樣的議題這樣還不錯，可以讓大家有更多發言的機會。提案人說，在分組會議中，內政部的同仁就有扮演好她的角色，確實說明戶籍法的內涵，兒童立場的與會者也有就專業說明兒童需要的是強健的支持系統，這樣就是很不錯的發言。不過，事實上發言的仍就是那幾位。&lt;/p&gt;
+
+&lt;p&gt;對於會議資料，提案人認為這場會議比較像在幫國健署補充資料，但有些人的論述沒有提出理據，這樣的言論恐怕會浪費與會者的時間。不過，提案人最後也提到，透過這次會議，她有增長了一些法律上的知識，但反方的意見仍然沒有說服她。提案人認為，政府應該讓雙方彼此了解，而非開過會後一直沒有後續，期待政府能在此議題上能有一些推進，不要讓民間的資源這樣被浪費了。&lt;/p&gt;</content><author><name>雨蒼</name></author><category term="blog" /><category term="JOIN平台" /><summary type="html">提案者報告認為，聯合國人權公約有保障人民的生殖權，此一權益除了應不分性傾向均平等以外，無論結婚與否，也應該受到一樣的保障。目前台灣的人工生殖僅確診為不孕症之夫妻可以使用，等同於歧視單身的女子。但反對者認為，在一夫一妻忠貞婚姻之下，以自然性行為方式所生出的小孩，才能有幸福的家庭環境。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/0/0202729ee380f76be840ca1d873218ac133bed9c.JPG" /></entry><entry><title type="html">動保警察能否實現？協作會議聚焦改善現行制度</title><link href="/zh-TW/blog/%E5%8B%95%E4%BF%9D%E8%AD%A6%E5%AF%9F%E8%83%BD%E5%90%A6%E5%AF%A6%E7%8F%BE-%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E8%81%9A%E7%84%A6%E6%94%B9%E5%96%84%E7%8F%BE%E8%A1%8C%E5%88%B6%E5%BA%A6/" rel="alternate" type="text/html" title="動保警察能否實現？協作會議聚焦改善現行制度" /><published>2018-04-01T00:00:00+00:00</published><updated>2018-04-01T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%8B%95%E4%BF%9D%E8%AD%A6%E5%AF%9F%E8%83%BD%E5%90%A6%E5%AF%A6%E7%8F%BE%3F%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E8%81%9A%E7%84%A6%E6%94%B9%E5%96%84%E7%8F%BE%E8%A1%8C%E5%88%B6%E5%BA%A6</id><content type="html" xml:base="/zh-TW/blog/%E5%8B%95%E4%BF%9D%E8%AD%A6%E5%AF%9F%E8%83%BD%E5%90%A6%E5%AF%A6%E7%8F%BE-%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E8%81%9A%E7%84%A6%E6%94%B9%E5%96%84%E7%8F%BE%E8%A1%8C%E5%88%B6%E5%BA%A6/">&lt;p&gt;2018 年 3 月 31 日，PDIS 小組於財政部資訊中心召開第 29 次協作會議，討論動保警察這個議題。&lt;/p&gt;
+
+&lt;p&gt;動保警察一案是由網友 yc 於 2017 年 11 月 25 日於公共網路政策參與平台提出「&lt;a href=&quot;https://join.gov.tw/idea/detail/7d9bdd7c-6b9a-4105-851d-8d75d74d2a8b&quot;&gt;不再讓虐殺路邊毛孩子的人逍遙法外！台灣應效法先進國家設立『動保警察』&lt;/a&gt;」，經過網友連署，與開放政府聯絡人月會投票選出後，成為協作會議的主題。&lt;/p&gt;
+
+&lt;p&gt;在人民生活品質受到保障的現在，許多人也開始期待動物也能擁有人道的待遇，不會受到人為的虐待與虐殺。在1998年，台灣立法通過了《&lt;a href=&quot;https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=M0060027&quot;&gt;動物保護法&lt;/a&gt;》，期待能透過這部法律，落實尊重動物生命與保護動物的理念。許多民眾也希望台灣能夠成立動保警察，嚴懲虐待動物的犯罪行為。&lt;/p&gt;
+
+&lt;h4 id=&quot;動保案件-動保員與警察配合處理&quot;&gt;動保案件 動保員與警察配合處理&lt;/h4&gt;
+
+&lt;p&gt;目前，依據動物保護法第 23 條，各級地方政府動保處應設置專任動物保護檢查員，並可甄選義務動物保護員，協助動物保護檢查工作。制度上，台灣採取警方與動保員合作的模式處理動保案件。&lt;/p&gt;
+
+&lt;p&gt;若是民眾發現有動物遭到虐待或不當對待之情事，可撥打 110 向警察局報案，或撥 0800-231-532，交由動保處處理。根據統計，2017 年警政署共收到 26 件各直轄市、縣（市）政府動保單位則收到 12,538 件。&lt;/p&gt;
+
+&lt;p&gt;警察若是收到來自民眾的檢舉，若是情況緊急可以先前往現場蒐集證據，或與動保員一同前往處理，由動保員進行現場的蒐證。後續調查由動保員進行，但若是有需求，可與警方一同前往現場勘驗。若是涉及動保法第 25 條等涉及刑責之條文，警方亦可以強制力介入，或由檢察官申請搜索令前往現場搜索。若調查後發現有具體違法行為，若違反刑法，可由檢調機關進行起訴，若僅違反行政法，則由動保處開罰。&lt;/p&gt;
+
+&lt;p&gt;為了幫助大家理解這個議題，主持團隊也預先準備了&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vRUaR-7rsrLvZjOfLPdp4VlRmORR8SrKf0o4-Q89AAg5JQVlTEoXUpBb5Lq7mNdwyshFq3M5QmivBFP/pub&quot;&gt;議題手冊&lt;/a&gt;，供與會者在會前閱讀資料，了解這個議題現在的狀況。&lt;/p&gt;
+
+&lt;h4 id=&quot;早上討論-聚焦問題釐清&quot;&gt;早上討論 聚焦問題釐清&lt;/h4&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/d/d68e0416977c378a8568dd9e86d112be15a77a2d_1_690x355.jpg&quot; /&gt;
+  &lt;figcaption&gt;提案人報告&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;在當天會議的一開始，提案人引用&lt;a href=&quot;http://www.tanews.org.tw/info/11227&quot;&gt;各國動保警察制度 台灣適合哪種？&lt;/a&gt;一文的內容，說明各國動物保護制度的差異以及落實狀況。&lt;/p&gt;
+
+&lt;p&gt;她表示，目前動保員沒有受過蒐證的訓練，在蒐證不足的狀況下，容易導致虐待動物的狀況無法被司法定罪；再者，現行動保員人力不足，晚上、假日難以即時處理。動保員也不像警方，對一般民眾幾乎無法構成威嚇性的效果，所以很多情況下，動保員的蒐證等處理很容易被置之不理。&lt;/p&gt;
+
+&lt;p&gt;與會的吳宗憲老師也指出，很多動保員本身是獸醫師，強制執法的效果很差，加上缺乏蒐證上的專業，導致動保員無法執行好業務。吳宗憲認為，警察包含蒐證專業、引導，甚至是權威的象徵，穿著制服配著槍，本身就是有效的行政作為。&lt;/p&gt;
+
+&lt;p&gt;警政署行政組的科長補充，警察的蒐證專業也是訓練而來，目前警方也已經將動保案件列入行政獎懲，但認為警方已經普遍過勞，不希望再繼續增加工作量。&lt;/p&gt;
+
+&lt;p&gt;農委會的同仁則提到，目前動保員的訓練會補專業上所欠缺的部份，像是法律的專業，蒐證、溝通對話及調查的專業也有找警專的老師來上。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/b/b6e305b6da41d376e54b21f5141865647d1aa6ab_1_690x356.jpg&quot; /&gt;
+  &lt;figcaption&gt;與會者與政府同仁一起釐清議題脈絡&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;農委會的同仁也進一步提出數字，以去年來說，包含動保案件的檢查、主動稽查將近有十七萬件，其中民眾檢舉申訴的案件大概是一萬至一萬兩千件。但這些案件中能構成行政罰的可能只有兩千件。這位同仁解釋，民眾聽到隔壁的狗慘叫聲，打了電話通報，這個就是算一個案件，但是事實上是否成案，以及是否能夠構成行政罰法案件？有很大的比率都不高。更進一步，真的移送到地檢署去處理的，甚至被法院裁罰的案件、數量，可能不到幾十件。&lt;/p&gt;
+
+&lt;p&gt;早上的討論多聚焦在問題釐清，以及讓現行制度可以更完善。到了下午的分組會議，則分為兩組，討論如何讓動保案件之相關制度更完善，如何讓動保員、警察、檢察官可以一起合作完成這個流程，以及如何增強大眾動保意識，主動舉報虐待動物案件。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/c/c752941b6d9cdfa6392b616c3b9f56383b26d24c_1_690x346.jpg&quot; /&gt;
+  &lt;figcaption&gt;與會者進行分組討論&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;分組討論-期能強化動保員與警方合作機制&quot;&gt;分組討論 期能強化動保員與警方合作機制&lt;/h4&gt;
+
+&lt;p&gt;分組討論之後，第一組指出，動保員執法時威嚇力不足，因此可能要設計比較有威嚴的制服，讓他比較像警察；另外，也能配備一些器械，像是電擊棒或是警棍。這部份需要動保主管機關和警政署的合作。在動保員無法進入民宅稽查的問題，希望可以參考噪音防治法第 19-1 條、兒少法相關的規定加以修法，讓動保員有依據可以進入到住所。&lt;/p&gt;
+
+&lt;p&gt;執行面方面，希望可以加強動保法醫學相關訓練，讓動保員有能力蒐證與鑑識；警察方面則要加強動物救護的相關知識。未來也希望能有一些警察與動檢員一起訓練，讓這些警察成為種子教師。針對流程方面，動保員無法 24 小時收件，可能要請 NGO 協助，或是分階段增加員額。&lt;/p&gt;
+
+&lt;p&gt;稽查方面，有時候可能警察不願意受理，雖然警政單位說在「危機」的時候警察會介入，但這個概念模糊，建議能定義好「危機」與「緊急」的狀況，也能納入遭到當事人多次阻擾的狀況，在這些狀況下，警察不應推托。長久的未來，還是希望能在台灣建立動保警察機制。最後，動保警察電話數字太多不好記，建議能改成像是 119 或是 165 等好記的電話號碼。&lt;/p&gt;
+
+&lt;p&gt;第二組的報告一開始先確認了大家認知的四方面問題：(1) 現行警方與動保員合作的機制似乎存在很多問題，可能不順暢或者是根本沒有落實；(2) 是動保成案的案件數可能存在很多黑數；(3) 動保員並不是二十四小時輪職，所以下班之後，動保員這方會產生空窗；(4) 大家對於警察陪同動保人員這一件事有很高的期待，可以增加動保員的執法能量，所以也許動保警察是一個很好的解法。&lt;/p&gt;
+
+&lt;p&gt;這一組設定討論的標的是涉及刑事的嚴重動保案件。在這個前提上，民眾撥打 110 報案的速度是最快的。2015 年之後，因為發生過矚目的案件，初步看起來動保員與警方共同出勤合作的程序沒有問題。但是，目前動保案件在黑數上仍存在問題，畢竟動物不會主動檢舉，而民眾看到案件也不一定願意檢舉，官方也要受理到檢舉才可以出動相關的動作。&lt;/p&gt;
+
+&lt;p&gt;在動保處下班後無人接聽電話的部份，資源比較豐沛的地方政府有 24 小時的救援人員，可以先對動物做初步的救援處置，第二天再做移送刑事的處理，對案件的影響會比較少。同時，由於討論標的是涉及刑事的動保案件，因此警方非到不可，現行制度看起來是合乎邏輯且順暢運作。&lt;/p&gt;
+
+&lt;p&gt;不過，在宣導方面可能是有所不足的。對內部分，警方可能沒有認知到動保也是業務範圍，警政署處理的是涉及刑事，也並非所有的動保案件。因此建議農委會可以宣導「虐待動物是犯罪行為」及「犯罪請打 110」，就可以讓民眾認知到動保案件可以透過警方來處理。目前農委會也有規劃一連串的檢舉後續獎勵，也應該讓民眾知道。未來一方面農委會、內政部持續對政府同仁做加強宣導，外部部分，除了農委會對動保團體和關心動物權益的民眾做宣導之外，教育部也可以扮演加強生命教育的部份。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/0/0954a8f50b5aeeb3cf11f264b97b7fb4fa3f458f_1_690x349.jpg&quot; /&gt;
+  &lt;figcaption&gt;分組報告狀況&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;這些&lt;a href=&quot;https://realtimeboard.com/app/board/o9J_kzqyBak=/&quot;&gt;結論&lt;/a&gt;，唐鳳政委都會在 4 月 2 日的政務會議上，將這些資訊向院長，以及相關部會首長報告，作為後續政策規劃參考之用。會議相關的&lt;a href=&quot;https://issuu.com/pdis.tw/stacks/347ec3a0ec4f471cb6f06a0091761c26&quot;&gt;簡報&lt;/a&gt;與&lt;a href=&quot;https://sayit.pdis.nat.gov.tw/2018-03-31-%E9%96%8B%E6%94%BE%E6%94%BF%E5%BA%9C%E8%81%AF%E7%B5%A1%E4%BA%BA%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E6%AC%A1%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0&quot;&gt;逐字稿&lt;/a&gt;也將會公開在網路上，方便有興趣的朋友參考。&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500&quot; title=&quot;realtimeboard&quot; src=&quot;https://realtimeboard.com/app/embed/o9J_kzqyBak=/?&amp;amp;pres=1&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;提案人期待能有後續成果&quot;&gt;提案人期待能有後續成果&lt;/h4&gt;
+
+&lt;p&gt;提案人表示，在這次會議之前曾經打過 1999。不過，他認為 1999 比較像是讓某些人即時發洩的管道。不過，就算協作會議有更多討論，也不知道最後會不會有實質後果。他提到，之前有在 Join 上提另外一個案子，但之後部會找去開會的時候感覺是案子「被搓掉了」。&lt;/p&gt;
+
+&lt;p&gt;提案人不是很滿意今天的討論方式，她認為她提案目的是希望能夠討論「動保警察」，但此次的討論卻聚焦到了「武裝動保員」，偏離她提案的本意。提案人希望可以有多一點報告的時間，也能適度釐清提案人的需求，請她說更多，而不是直接接到部會報告的階段。&lt;/p&gt;
+
+&lt;p&gt;提案人仍關心此案會不會有較多後續結果，雖然政委會去向院長報告，但仍要看政府中有哪些人，是否願意將討論結果落實。&lt;/p&gt;
+
+&lt;p&gt;與會的吳宗憲老師指出，此次議題涉及「道德議題」，容易喚起民眾的情緒。透過釐清脈絡，或是試點之後再來評估的方式，可以讓這類的政策在規劃時能有更好的討論品質。吳宗憲老師認為，協作會議後續能否落實是非常重要的議題，否則「耗費了這麼多的時間精力準備與開會，卻沒有後續的政策落實，是很可惜的一件事。」&lt;/p&gt;</content><author><name>雨蒼</name></author><category term="blog" /><category term="JOIN平台" /><summary type="html">2018 年 3 月 31 日，PDIS 於財政部資訊中心召開協作會議，討論台灣的動物保護制度，釐清台灣目前動物保護政策落實上的困難之處，以及動保員、警察在動保案件上的分工方式。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/c/c752941b6d9cdfa6392b616c3b9f56383b26d24c_1_690x346.jpg" /></entry><entry><title type="html">幾個小條文，讓政府提供更好的數位服務</title><link href="/zh-TW/blog/%E5%B9%BE%E5%80%8B%E5%B0%8F%E6%A2%9D%E6%96%87-%E8%AE%93%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%95%B8%E4%BD%8D%E6%9C%8D%E5%8B%99/" rel="alternate" type="text/html" title="幾個小條文，讓政府提供更好的數位服務" /><published>2018-03-18T00:00:00+00:00</published><updated>2018-03-18T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%B9%BE%E5%80%8B%E5%B0%8F%E6%A2%9D%E6%96%87,%E8%AE%93%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%95%B8%E4%BD%8D%E6%9C%8D%E5%8B%99</id><content type="html" xml:base="/zh-TW/blog/%E5%B9%BE%E5%80%8B%E5%B0%8F%E6%A2%9D%E6%96%87-%E8%AE%93%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%95%B8%E4%BD%8D%E6%9C%8D%E5%8B%99/">&lt;p&gt;這幾年，在 g0v 零時政府等運動者的倡議之下，臺灣政府的開放資料確實往前邁開一大步。但很多人都想問，政府的數位服務能更好嗎？政府網站有機會 Open Source，開放大家一起貢獻嗎？我們能用更好的 API，來運用政府所提供的服務嗎？&lt;/p&gt;
+
+&lt;p&gt;這些問題，其實在去年間已經針對相關行政命令進行初步的修正，讓政府網站的 Open Source、Open API 成為可能；令人詬病的跨部會資料介接問題，也已經在處理當中。今年開始，資訊服務發展也將逐漸導入類似英國 GDS 的數位服務首選原則參考，讓服務更符合民眾的需求。&lt;/p&gt;
+
+&lt;p&gt;這篇文章會慢慢告訴大家，我們修正了哪裡、能達成怎樣的效果。&lt;/p&gt;
+
+&lt;h4 id=&quot;共通性應用程式介面開放規範讓-api-說明文件標準化&quot;&gt;共通性應用程式介面開放規範，讓 API 說明文件標準化&lt;/h4&gt;
+
+&lt;p&gt;為擴大政府資訊服務效益，並保有各系統API開發彈性，國發會參考 Open API Initiative（OAI）為精進應用程式介面（Application Programming Interface, API）所訂出之 API 的定義與描述標準規範（OpenAPI Specification, OAS），將 OAS 3.0 規範翻譯成中文，並頒佈為最新版「&lt;a href=&quot;https://theme.ndc.gov.tw/lawout/LawContent.aspx?id=GL000270&quot; target=&quot;_blank&quot;&gt;共通性應用程式介面規範&lt;/a&gt;」，鼓勵各機關參採導入，希望藉由一致性的描述方法，提供人類及機器都可以看得懂且可直接使用的 API 說明文件，以大幅降低資料存取、API 調整以及維護等技術門檻，讓服務的串聯更加便利。為使 API 具有共通性之特性，在106年7月13日工程會以工程企字第10600218200號函頒修正「&lt;a href=&quot;https://www.pcc.gov.tw/cp.aspx?n=99E24DAAC84279E4&quot; target=&quot;_blank&quot;&gt;資訊服務採購契約範本&lt;/a&gt;」，明白寫出：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;履約標的涉及應用程式介面開發或增修者，應依國家發展委員會訂頒之最新版『共通性應用程式介面開放規範』辦理， 並運用國際通用驗證機制（如 Linux Foundation 之 OpenAPI 標準等），作為驗收之依據。」&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;這樣的修改，希望各機關資訊開發案中如採 API 對外提供服務、或開發其傳輸資料內容不涉及機敏性之 API，無論 API 所使用的授權及存取限制為何，廠商都要提供符合 OAS 標準之說明文件，採 OAS 標準進行描述。如此一來，政府網站的 API 規範為使用國際標準，可以有效防止各自為政的情況，也增進與國際社群協同開發的機會。&lt;/p&gt;
+
+&lt;p&gt;同時，行政院公共工程委員會也修正「&lt;a href=&quot;http://lawweb.pcc.gov.tw/LawContent.aspx?id=FL000677&quot; target=&quot;_blank&quot;&gt;機關委託資訊服務廠商評選及計費辦法&lt;/a&gt;」第7條，加上這個修正：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;機關採購軟體開發服務，前項第二款所定廠商之專業技術能力，得包括在零成本或低成本之前提下，提供可自由存取、使用、修改及散布之共通性應用程式介面開發或整合能力。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;這個修正，希望引導廠商提升及突顯其提供共通性應用程式介面開發或整合能力。&lt;/p&gt;
+
+&lt;p&gt;這些條文為 API 開了一扇門之後，唐鳳在 2017 年 6 月的會議上，雖然並未強制政府各單位都需要導入 OAS 標準說明文件與 API，而是請機關自行規劃導入的進程，但隨著資訊主管聯席會的宣達，以及在管考方面納入計畫審議建議、2017 年度的計畫查證建議。期待能透過宣導，提供實作標準、降低成本的方式，以鼓勵部會採用。&lt;/p&gt;
+
+&lt;h4 id=&quot;盤點開源軟體授權清單讓政府有機會開放網站源碼&quot;&gt;盤點開源軟體授權清單，讓政府有機會開放網站源碼&lt;/h4&gt;
+
+&lt;p&gt;開源社群長期以來，都期待政府能夠透過 Open Source 授權的方式，讓民間可以貢獻自己的力量、一起完善政府網站。從 2016 年開始，政府也在資訊採購標案的契約範本中明訂：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;廠商依本契約提供機關服務時，如使用開源軟體，應依該開源軟體之授權範圍，授權機關利用，並以執行檔及原始碼共同提供之方式交付予機關使用，廠商並應交付開源軟體清單（包括但不限於：開源專案名稱、出處資訊、原始著作權利聲明、免責聲明、開源授權條款標示與全文）。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;這個修正，讓廠商在替政府製作網站或提供資訊服務的時候，需要先盤點相應的軟體，讓政府在取得軟體授權後，能夠知道哪些部份可以 Open Source 的方式提供外界使用、邀請民眾一起貢獻、協作，而無需擔心侵權的風險。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/9/96d0477d55ad51fa59ef9929100ef78c238d0908_1_690x487.jpg&quot; alt=&quot;行政院公共工程委員會修正「資訊服務採購契約範本」修正對照表&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;統一資料標準方便未來跨部會資料介接&quot;&gt;統一資料標準，方便未來跨部會資料介接&lt;/h4&gt;
+
+&lt;p&gt;由於政府網站或內部服務常常是部會各自委託廠商實作，內部資料欄位未必一致，導致跨部會資料難以介接。有朋友期待政府應當落實資料治理，來統一政府內部的資料標準，以使政府各部會之間，透過統一的 API 欄位彼此對接，民眾也能更好地使用政府的資料。&lt;/p&gt;
+
+&lt;p&gt;國發會目前已訂定「&lt;a href=&quot;https://www.ndc.gov.tw/Content_List.aspx?n=B2A92523DCC12607&quot; target=&quot;_blank&quot;&gt;領域資料標準訂定流程參考指引&lt;/a&gt;」，先從地政、戶政、財稅、商工、公路監理、勞保、健保、衛福長照、金融等領域開始推動，預計 2018 年 8 月前，能完成這 9 個領域部分資料範圍的資料標準，以利跨機關資料介接應用。&lt;/p&gt;
+
+&lt;p&gt;往更長遠來看，「&lt;a href=&quot;https://www.ey.gov.tw/News_Content.aspx?n=722606E55963357D&amp;amp;sms=A2FE4379891C538B&amp;amp;s=148ACEE4D1D5DB4D&quot; target=&quot;_blank&quot;&gt;數位國家創新經濟發展方案&lt;/a&gt;」推動措施裡，也用主軸 3.3.1 之辦理措施 6，來明訂「以開放標準及開源軟體重塑政府資訊應用，打造高效能數位服務。」&lt;/p&gt;
+
+&lt;h4 id=&quot;規劃政府數位服務準則讓軟體開發更符合使用者需求&quot;&gt;規劃「政府數位服務準則」，讓軟體開發更符合使用者需求&lt;/h4&gt;
+
+&lt;p&gt;在軟體發展上，過往政府常常是由部會自行撰寫需求建議書，廠商也只能依照這個建議書製作軟體，導致規格不一定符合需要。目前已經在制定「&lt;a href=&quot;https://join.gov.tw/policies/detail/fd1415a8-a8fd-44bc-b5a4-6447918c9ab0&quot; target=&quot;_blank&quot;&gt;政府數位服務準則&lt;/a&gt;」草案，包含了解使用者需求、建立跨領域合作機制、規劃多元服務管道等 13 項準則，期待能透過引入類似美國、英國、澳洲的數位發展引導方向，推動以使用者為中心的政府數位服務，也提供各個政府機關，作為推動數位服務的參考。&lt;/p&gt;
+
+&lt;p&gt;這些規劃，都是為了改善政府提供數位服務的能力。我們期待未來能透過鼓勵公務機關採用的方式，逐步讓公務機關了解服務設計的重點，將資料治理與資料開放的精神，在政府的公務文化裡紮根。&lt;/p&gt;</content><author><name>雨蒼</name></author><category term="blog" /><category term="JOIN平台" /><summary type="html">這幾個小條文，從Open API、Open Source到服務設計，期待能透過制度的制定，讓政府的數位服務有更多的可能。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/9/96d0477d55ad51fa59ef9929100ef78c238d0908_1_690x487.jpg" /></entry><entry><title type="html">商周專欄：使命無價 商機無限</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%BD%BF%E5%91%BD%E7%84%A1%E5%83%B9-%E5%95%86%E6%A9%9F%E7%84%A1%E9%99%90/" rel="alternate" type="text/html" title="商周專欄：使命無價 商機無限" /><published>2018-03-01T00:00:00+00:00</published><updated>2018-03-01T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%BD%BF%E5%91%BD%E7%84%A1%E5%83%B9-%E5%95%86%E6%A9%9F%E7%84%A1%E9%99%90</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%BD%BF%E5%91%BD%E7%84%A1%E5%83%B9-%E5%95%86%E6%A9%9F%E7%84%A1%E9%99%90/">&lt;p&gt;社會企業的使命，是不是可以轉化成無限商機？從芙彤園和 2021 社會企業的作法，或可確認。&lt;/p&gt;
+
+&lt;p&gt;🏡 走進高雄桃源區的曬梅屋，滿室梅香撲鼻而來。為我們導覽的農民高先生說，這些「梅胚」再經加工，即可製成梅醬、梅乾，這些正是 2021 的主打產品。&lt;/p&gt;
+
+&lt;p&gt;莫拉克風災後，為讓重建後的小林村真正扎根，時任小林重建發展協會會長蔡松諭開始尋找在地產業。偶然發現以小林梅製作的「老梅膏」後，他以當地的國道 20、21 線為名，創立 2021 社會企業，致力發展「梅子經濟」。&lt;/p&gt;
+
+&lt;p&gt;💰 「人家說給他魚吃，不如教他釣魚，而我們在造魚塭。」蔡松諭說，農民銷售青梅平均每公斤只有 10 元，而他們和梅農簽約契作、指導釀梅技術，以每公斤 35 元的價格購買梅胚，利潤直接回饋農民。&lt;/p&gt;
+
+&lt;p&gt;未來，2021 也將發展休閒農業，「梅好經濟圈」的發展，指日可待。&lt;/p&gt;
+
+&lt;p&gt;🍀 中央山脈的另一邊，則是遍地馥郁芬芳。走進閒置十多年的尚德國小，尚德社區協會理事長陳人鼎熱情導覽，他隨手一摘，便是薄荷葉、檸檬草。原來，他們認養尚德國小，將其改造為香草實驗室。&lt;/p&gt;
+
+&lt;p&gt;早在日本帝國時代，尚德村就是香草種植基地。辭職返鄉的陳人鼎決定以此復興社區，投入試種、邀請居民共同耕作。現在，當地香草種植面積已達七公頃，優良的環境品質也吸引不少合作對象，主打天然洗沐用品的社會企業「芙彤園」，就是其中之一。&lt;/p&gt;
+
+&lt;p&gt;🌱 由於芙彤園標榜零化學添加，做為原料的香草品質便馬虎不得，為此執行長詹茹惠跑遍臺灣。&lt;/p&gt;
+
+&lt;p&gt;臺東的土地和水質極佳，加上尚德不施肥、不撒農藥的自然農法，與她的理念一拍即合，芙彤園甚至直接在當地生產、包裝。&lt;/p&gt;
+
+&lt;p&gt;🌎 堅持理念，讓芙彤園逐漸站穩腳步。去年起，芙彤園進駐超商通路，也打入國際市場。詹茹惠透露，在加拿大時，她曾碰到某知名企業的 CSR 採購，當對方了解芙彤園的社企理念後，便表示不再議價，直接以原價訂購。&lt;/p&gt;
+
+&lt;p&gt;2021 和芙彤園的經驗讓我看見：社會使命不只是無價資產，更蘊含極高的商業價值。社會企業如何永續發展？答案就在社企自己身上。&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/7/7050491395513bb3e95c9ff4339c622ac891388d.jpg&quot; width=&quot;690&quot; height=&quot;500&quot; /&gt;&lt;/center&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會企業" /><summary type="html">社會企業的使命，是不是可以轉化成無限商機？從芙彤園和2021社會企業的作法，或可確認。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/7/7050491395513bb3e95c9ff4339c622ac891388d.jpg" /></entry></feed>
